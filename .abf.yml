@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-PodLoom-3.00.tar.gz: dfe082ef23ba9ec5e4b635a35f8222424abaa3cd
 sources:
-  "Dist-Zilla-Plugin-PodLoom-3.00.tar.gz": dfe082ef23ba9ec5e4b635a35f8222424abaa3cd
+  Dist-Zilla-Plugin-PodLoom-5.00.tar.gz: 5119aafc030df1ad054acf9b1c76c32cc663ad32
